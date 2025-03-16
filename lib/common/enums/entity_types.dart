@@ -1,0 +1,1 @@
+enum EntityTypes { user }

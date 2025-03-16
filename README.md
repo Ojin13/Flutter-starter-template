@@ -3,6 +3,11 @@
 An easy starter template for you next Flutter application
 
 ## Folder structure
+To get started, please fill the firebase_options.dart file in the configuration folder with your Firebase configuration.
+
+```dart
+
+## Folder structure
 - **/common** - This folder serves as a hub for all components that are reused across the application
 - **/common/enums** - This folder servers to store all used enum types
 - **/common/model** - This folder servers to store all data models
