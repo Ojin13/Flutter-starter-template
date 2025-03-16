@@ -1,0 +1,1 @@
+- **/pages** - This folder servers to store all individual pages

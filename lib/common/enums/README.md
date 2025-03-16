@@ -1,0 +1,1 @@
+- **/common/enums** - This folder servers to store all used enum types

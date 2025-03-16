@@ -1,0 +1,1 @@
+- **/extensions** - This folder servers to store all flutter extensions

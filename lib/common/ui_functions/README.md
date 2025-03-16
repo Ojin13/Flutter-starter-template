@@ -1,0 +1,1 @@
+- **/common/ui_functions** - This folder servers to store all Flutter functions that are interacting with UI, such as "showConfirmationDialog"

@@ -1,0 +1,1 @@
+- **/common/widget** - This folder servers to store all Flutter widgets

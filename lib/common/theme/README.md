@@ -1,0 +1,1 @@
+- **/common/theme** - This folder servers to store all app-wide theme related settings

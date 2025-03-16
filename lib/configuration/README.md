@@ -1,0 +1,1 @@
+- **/configuration** - This folder servers to store all app-wide configurations such as Firebase config

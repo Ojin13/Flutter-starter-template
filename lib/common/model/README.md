@@ -1,0 +1,1 @@
+- **/common/model** - This folder servers to store all data models

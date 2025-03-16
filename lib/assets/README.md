@@ -1,0 +1,1 @@
+- **/assets** - This is for your resources like images, icons and fonts

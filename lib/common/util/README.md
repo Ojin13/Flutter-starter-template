@@ -1,0 +1,1 @@
+- **/common/utils** - This folder servers to store all utility functions

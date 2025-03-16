@@ -1,0 +1,1 @@
+- **/database** - This folder servers to store all database related functions such as connection and queries and data serialization

@@ -1,0 +1,1 @@
+- **/service** - This folder servers to store and register all app-wide services
