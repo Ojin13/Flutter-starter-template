@@ -46,11 +46,13 @@ dependencies:
   flutter_image_compress: ^2.4.0
   skeletonizer: ^1.4.3
   google_sign_in: ^6.3.0
+  json_annotation: ^4.9.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  json_annotation: ^4.9.0
+  build_runner: ^2.4.15
+  json_serializable: ^6.1.0
 
 
   # The "flutter_lints" package below contains a set of recommended lints to
@@ -59,7 +61,6 @@ dev_dependencies:
   # package. See that file for information about deactivating specific lint
   # rules and activating additional ones.
   flutter_lints: ^5.0.0
-  build_runner: ^2.4.15
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
